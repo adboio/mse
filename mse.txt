@@ -1,0 +1,149 @@
+###########################
+
+// GIBBS
+
+"Gibb's: P + F = C + 2"
+"P -> # phases coexist"
+"F -> degrees of freedom"
+"C -> # components in sys"
+
+###########################
+
+// LEVER
+
+"w_alpha ="
+"   w_B - w^beta_B   "
+"--------------------"
+"w^alpha_B - w^beta_B"
+""
+"w^a_B: ele B in alpha phz"
+"w^b_B: ele B in beta phz"
+"w_B: ele B in whole alloy"
+
+###########################
+
+// EQNS
+
+"Eutectic:"
+"L -> alpha + beta"
+""
+"Eutectoid:"
+"alpha -> Beta + gamma"
+""
+"Peritectic:"
+"alpha + L -> Beta"
+""
+"Peritectoid:"
+"alpha + Beta -> gamma"
+""
+"Monotectic:"
+"L1 -> alpha + L2"
+""
+"Zero deg. freedom:"
+"(3 + F = 2 + 1)"
+
+###########################
+
+// HY-PER/PO
+
+"Hypereutectic:"
+"Right of eutectic point"
+""
+"Hypoeutectic:"
+"Left of eutectic point"
+
+###########################
+
+// PEARLITE
+
+"Pearlite:"
+"Abs. -> .8% carb. steel"
+"heated to 750C -> cooled"
+"to below eutectoid temp."
+""
+"Struc = lamella, alt."
+"   plates aFerrite and"
+"   cementite."
+""
+"Micro = dark etched"
+"   cementite and white"
+"   phased ferrite"
+
+###########################
+
+// EUCTEC
+
+"eutectoid steel:"
+"0.8% carbon"
+""
+"hypoeutectoid steel:"
+"< 0.8% carbon"
+""
+"hypereutectoid steel:"
+"> 0.8% carbon"
+
+###########################
+
+// ISOTHERM
+
+"microstruc. chanes that"
+"occur in solid when they"
+"are rapidly cooled in a"
+"liquid bath at desired"
+"temp below eut temp"
+
+###########################
+
+// FE-FE3C
+
+"alpha: ferrite"
+" interstitial soln of C"
+" BCC iron crystal lattice"
+" C slightly soluble"
+"   .02% @ 723C"
+"   .005% @ 0C"
+""
+"gamma: austenite"
+" FCC crystal structure"
+" 2.08% @ 1148C"
+" 0.8% @ 723C"
+""
+"Fe3C: cementite"
+" intermetallic"
+" neg. solubility limits"
+" 6.67% C, 93.3% Fe"
+""
+"l_delta ferrite:"
+" inter. soln C & ldIron"
+" BCC crystal structure"
+" > latt const than alpFer"
+" .09% @ 1465C"
+
+###########################
+
+// SLOWCOOL
+
+"eut. steel .8% C -> 750C"
+" -> homo austenite"
+" ->^ eut temp, same struc"
+" -> eut temp, to pearlite"
+""
+"hypo steel .4% C -> 900C"
+" -> homo austenite"
+" -> 775C, pro ferrite"
+"  nucleates"
+" -> 'c', PF forms, 50%"
+"  of austenite gone"
+"  + 0.4% -> 0.8% C"
+" -> 727C, all austenite"
+"  isothermal -> pearlite"
+""
+"hyper steel 1.2%C -> 950C"
+" -> all austenite"
+" -> 'b', pro. cementite"
+"  nucleates, bye austen."
+" -> 'c' (>727), more cem."
+"  + %C -> 0.8%"
+" -> 727C, aus -> pearl"
+
+###########################
